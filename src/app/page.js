@@ -15,7 +15,7 @@ export default function Home() {
           packed with talks, panels and networking
         </div>
         <img className="mt-2" src="/web3devrel.svg" />
-        <p className="uppercase bg-black inline-block text-white px-7 py-2 rounded-full mt-2">summit</p>
+        <p className="uppercase bg-black inline-block text-sm sm:text-base text-white px-7 py-2 rounded-full mt-2">summit, June 1st 2025 - Belgrade</p>
         <div className="bg-gray-100 p-10 border mt-10">
           <p className="mb-2"><b>Wen tickets?</b> Subscribe now and get notified</p>
           <div className="md:flex gap-2">

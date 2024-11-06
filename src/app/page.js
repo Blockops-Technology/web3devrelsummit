@@ -51,7 +51,7 @@ export default function Home() {
       <div className="mx-5 my-50 z-10">
         <p className={`uppercase font-bold ${dela.className} text-lg lg:text-2xl`}>The conference for devrels</p>
         <div>
-          packed with talks, panels and networking
+          packed with talks, panels, and networking
         </div>
         <img className="mt-2" src="/web3devrel.svg" />
         <p className="uppercase bg-black inline-block text-sm sm:text-base text-white px-7 py-2 rounded-full mt-2">summit, June 1st 2025 - Belgrade</p>

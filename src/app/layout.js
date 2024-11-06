@@ -23,7 +23,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "https://web3devrelsummit.com/web3devrel-summit-og-image.png",
+        url: "https://web3devrelsummit.com/web3devrel-summit-og-image.jpg",
       }
     ]
   }

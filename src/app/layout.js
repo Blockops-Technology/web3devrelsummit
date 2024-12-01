@@ -1,6 +1,6 @@
 import localFont from "next/font/local";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import "./globals.css";
-import { ToastContainer } from "react-toastify";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -37,6 +37,7 @@ export default function RootLayout({ children }) {
       >
         {children}
       </body>
+      <GoogleAnalytics gaId="G-5FHH6KKLL0" />
     </html>
   );
 }

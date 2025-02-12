@@ -1,9 +1,9 @@
 "use client"
 
-
 import { Dela_Gothic_One } from 'next/font/google'
 import { ToastContainer } from "react-toastify";
 import Newsletter from "@/app/components/landing/newsletter/newsletter";
+import { EVENT_DATE } from "@/constants";
 
 const dela = Dela_Gothic_One({
   weight: "400",
@@ -20,7 +20,7 @@ export default function Home() {
           packed with talks, panels, and networking
         </div>
         <img className="mt-2" src="/web3devrel.svg" />
-        <p className="uppercase bg-black inline-block text-sm sm:text-base text-white px-7 py-2 rounded-full mt-2">summit, June 5th 2025 - Belgrade</p>
+        <p className="uppercase bg-black inline-block text-sm sm:text-base text-white px-7 py-2 rounded-full mt-2">summit, {EVENT_DATE} - Belgrade</p>
         <div className="sm:flex items-center justify-between py-10 mt-2">
           <p className={`mb-3 sm:mb-0`}><b>Have something to say?</b> Speaker applications are open</p>
           <a href="https://forms.gle/DQWw8XviBzNDCWag9" target="_blank" rel="noreferrer noopener">

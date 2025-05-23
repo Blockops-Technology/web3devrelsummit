@@ -14,6 +14,10 @@
   }
 } */
 
+.dela-font {
+  font-family: var(--font-dela), sans-serif;
+}
+
 body {
   color: var(--foreground);
   background: var(--background);

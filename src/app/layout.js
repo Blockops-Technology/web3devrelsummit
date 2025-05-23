@@ -1,4 +1,5 @@
 import localFont from "next/font/local";
+import { Dela_Gothic_One } from 'next/font/google';
 import { GoogleAnalytics } from "@next/third-parties/google";
 import "./globals.css";
 import "react-toastify/dist/ReactToastify.css";
@@ -14,6 +15,10 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
   weight: "100 900",
 });
+const dela = Dela_Gothic_One({
+  weight: "400",
+  subsets: ["latin"]
+})
 
 export const metadata = {
   title: "Web3 DevRel Summit",
@@ -35,6 +40,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
+        style={{ '--font-dela': dela.style.fontFamily }}
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}

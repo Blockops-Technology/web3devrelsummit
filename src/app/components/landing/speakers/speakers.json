@@ -1,0 +1,94 @@
+{
+  "list": [
+    {
+      "name": "Martin Leclercq",
+      "twitter": "https://x.com/martinlecl",
+      "company": "iExec",
+      "photo": "martin.png"
+    },
+    {
+      "name": "Bianca Buzea",
+      "twitter": "https://x.com/buzea200",
+      "company": "Chronicle / DevRel Uni",
+      "photo": "bianca.png"
+    },
+      {
+      "name": "Daria Agad",
+      "twitter": "https://x.com/dariaagad",
+      "company": "Babylon",
+      "photo": "daria.jpg"
+    },
+    {
+      "name": "Francesco Andreoli",
+      "twitter": "https://x.com/francescoswiss",
+      "company": "Consensys",
+      "photo": "francesco.jpg"
+    },
+    {
+      "name": "Julia Gallen",
+      "twitter": "https://x.com/Jules_Gallen",
+      "company": "Neon EVM",
+      "photo": "julia2.png"
+    },
+     {
+      "name": "Timothy Shen",
+      "twitter": "https://x.com/timtimtim_eth",
+      "company": "Story",
+      "photo": "tim.jpg"
+    },
+      {
+      "name": " Nenad Vitorovic",
+      "twitter": "https://x.com/nenadvitt",
+      "company": "Enso",
+      "photo": "nenad.jpg"
+    },
+       {
+      "name": " Milica Vulic - 0xMilica",
+      "twitter": "https://x.com/0xMilica",
+      "company": "zkVerify",
+      "photo": "milica.png"
+    },
+          {
+      "name": " Gwen Martin",
+      "twitter": "https://x.com/Gwenole_M",
+      "company": "Consensys",
+      "photo": "gwen.jpg"
+    },
+           {
+      "name": " Stefan v.",
+      "twitter": "https://x.com/velkoskiss",
+      "company": "Independent",
+      "photo": "stefan.jpeg"
+    },
+    {
+      "name": "Solene Daviaud",
+      "twitter": "https://x.com/_SDAV",
+      "company": "dev3pack",
+      "photo": "solene.jpg"
+    }, 
+     {
+      "name": "Lav Leon Hudak",
+      "twitter": "https://x.com/leohhhn",
+      "company": "Gno.land",
+      "photo": "leon.jpg"
+    },
+     {
+      "name": "Monica Tartau",
+      "twitter": "https://x.com/mtartau",
+      "company": "Aurora Labs",
+      "photo": "monica3.png"
+    },
+      {
+      "name": "Vanja Paunović",
+      "twitter": "https://x.com/dzimiks",
+      "company": "One Balance",
+      "photo": "vanja.jpg"
+    },
+      {
+      "name": "Armando Medina",
+      "twitter": "https://x.com/armsves",
+      "company": "Independent",
+      "photo": "armando.jpg"
+    }
+  ]
+}

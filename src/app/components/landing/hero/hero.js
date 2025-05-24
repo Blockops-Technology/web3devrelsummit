@@ -13,7 +13,7 @@ const Hero = () => {
       </p>
 
       <div className="sm:flex items-center justify-between py-10 mt-2">
-        <p className={`mb-3 sm:mb-0`}><b>Want to ger inovled?</b> Get tickets, it's free</p>
+        <p className={`mb-3 sm:mb-0`}><b>Want to ger inovled?</b> Get tickets, it is free!</p>
         <a href="https://lu.ma/3f3syhyz" target="_blank" rel="noreferrer noopener">
           <div className="bg-black p-3 text-white text-sm min-w-[150px] text-center">
             Get tickets

@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="max-w-7xl mx-auto z-10 pt-[100px] md:pt-[150px] pb-[50px]">
       <img className="mt-2" src="/web3devrel.svg" />
       <p className="uppercase bg-black inline-block text-sm sm:text-base text-white px-7 py-2 rounded-full mt-2">summit, {EVENT_DATE} - Belgrade</p>
-      <p className={`uppercase font-bold dela-font text-lg lg:text-2xl mt-10`}>The first conference for devrels</p>
+      <p className={`uppercase font-bold dela-font text-lg lg:text-2xl mt-10`}>The first conference for Web3 devrels</p>
       <p>
         packed with talks, panels, and networking
       </p>

@@ -54,11 +54,41 @@
       "company": "Consensys",
       "photo": "gwen.jpg"
     },
+           {
+      "name": " Stefan v.",
+      "twitter": "https://x.com/velkoskiss",
+      "company": "Independent",
+      "photo": "stefan.jpeg"
+    },
     {
-      "name": "Kevin  Daviaud",
+      "name": "Solene Daviaud",
       "twitter": "https://x.com/_SDAV",
       "company": "dev3pack",
       "photo": "solene.jpg"
+    }, 
+     {
+      "name": "Lav Leon Hudak",
+      "twitter": "https://x.com/leohhhn",
+      "company": "Gno.land",
+      "photo": "leon.jpg"
+    },
+     {
+      "name": "Monica Tartau",
+      "twitter": "https://x.com/mtartau",
+      "company": "Aurora Labs",
+      "photo": "monica3.png"
+    },
+      {
+      "name": "Vanja Paunović",
+      "twitter": "https://x.com/dzimiks",
+      "company": "One Balance",
+      "photo": "vanja.jpg"
+    },
+      {
+      "name": "Armando Medina",
+      "twitter": "https://x.com/armsves",
+      "company": "Independent",
+      "photo": "armando.jpg"
     }
   ]
 }

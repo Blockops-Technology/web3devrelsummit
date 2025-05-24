@@ -89,6 +89,12 @@
       "twitter": "https://x.com/armsves",
       "company": "Independent",
       "photo": "armando.jpg"
+    },
+       {
+      "name": "Andrej Rakic",
+      "twitter": "https://x.com/andrej_dev",
+      "company": "Chainlink",
+      "photo": "andrej.jpg"
     }
   ]
 }

@@ -101,6 +101,12 @@
       "twitter": "https://x.com/andrej_dev",
       "company": "Chainlink",
       "photo": "andrej.jpg"
+    },
+      {
+      "name": "Omer Talip Akalin",
+      "twitter": "https://x.com/otaliptus",
+      "company": "Citrea",
+      "photo": "talip.jpg"
     }
   ]
 }

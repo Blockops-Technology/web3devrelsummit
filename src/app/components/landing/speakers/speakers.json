@@ -1,10 +1,10 @@
 {
   "list": [
-    {
-      "name": "Martin Leclercq",
-      "twitter": "https://x.com/martinlecl",
-      "company": "iExec",
-      "photo": "martin.png"
+     {
+      "name": "Kartik Talwar",
+      "twitter": "https://x.com/TheRealKartik",
+      "company": "ETHGlobal",
+      "photo": "kartik.jpg"
     },
     {
       "name": "Bianca Buzea",
@@ -23,6 +23,12 @@
       "twitter": "https://x.com/francescoswiss",
       "company": "Consensys",
       "photo": "francesco.jpg"
+    },
+     {
+      "name": "Martin Leclercq",
+      "twitter": "https://x.com/martinlecl",
+      "company": "iExec",
+      "photo": "martin.png"
     },
     {
       "name": "Julia Gallen",

@@ -6,10 +6,9 @@ const Speakers = () => {
       <h1 className={`uppercase font-bold dela-font text-lg lg:text-2xl mt-10`}>Speakers</h1>
 
       <div className="sm:flex items-center justify-between mt-2 mb-10">
-        <p className={`mb-3 sm:mb-0`}><b>Have something to say?</b> Speaker applications are open</p>
-        <a href="https://forms.gle/DQWw8XviBzNDCWag9" target="_blank" rel="noreferrer noopener">
+        <a href="https://docs.google.com/spreadsheets/d/16-56eUs2gvT6d1PBlDZ3Udp-UXHKIqK55mhAzXK6mkY/edit?usp=sharing" target="_blank" rel="noreferrer noopener">
           <div className="bg-black p-3 text-white text-sm min-w-[150px] text-center">
-            Apply as a speaker
+            Check the AGENDA
           </div>
         </a>
       </div>
